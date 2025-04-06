@@ -1,0 +1,52 @@
+{
+    "name": "Chips_Little_Package",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/chipolux/chips_little_package",
+    "description": "Some stuff for my friendos.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "nickklmao-MenuLib-2.2.0",
+        "nickklmao-REPOConfig-1.1.8",
+        "Zehs-REPOLib-2.0.1",
+        "loaforc-loaforcsSoundAPI-2.0.5",
+        "loaforc-loaforcsSoundAPI_REPO-1.0.1",
+        "YMC_MHZ-MoreHead-1.3.4",
+        "zelofi-MorePlayers-1.0.4",
+        "mattymatty-AsyncLoggers-2.1.4",
+        "BlueAmulet-REPONetworkTweaks-1.0.3",
+        "Rebateman-LateJoin-0.1.2",
+        "RoemisTeam-BlackBox-1.0.2",
+        "Maflingus-TruckLoot-1.0.4",
+        "itsUndefined-Shop_Items_Spawn_in_Level-1.7.17",
+
+        "eth9n-Mimic-1.1.6",
+        "VyrusGames-Puppet-1.1.0",
+        "JoshA-Weeping_Angel_Enemy-1.1.0",
+        "Magic_Wesley-Wesleys_Enemies-1.1.7",
+        "GarStudios-MINEMONSTERS-1.0.3",
+
+        "GalaxyMods-MoreShopItems-1.3.1",
+        "BULLETBOT-MoreUpgrades-1.4.5",
+
+        "TitanVortex-BigNuke-1.0.1",
+        "Yuckers-Unique_Potions-0.5.3",
+        "ToyDragon-TootFloot-0.1.0",
+        "GarStudios-GarsWackyStuff-1.3.3",
+        "Ernedev-Airhorn-1.0.5",
+        "Sai-CANNON-0.8.1",
+        "BobisMods-REPORoles-1.4.2",
+        "flipf17-DeadTTS-1.0.10",
+
+        "AriIcedT-MinecraftStrongholdLevel-1.0.5",
+
+        "Zehs-LethalCompanyValuables-1.1.1",
+        "Magic_Wesley-Wesleys_Valuables-1.0.1",
+        "Rangerbb275-REPOing_Valuables-3.0.0",
+        "Nikki-AbioticFactorValuables-1.0.2",
+        "Jake_n_Liv-Jake_and_Livs_Retro_Smashpack-1.1.4",
+
+        "Nanalands-StupidHead-1.5.0",
+        "Bengimi-BensCosmetics-1.5.0",
+        "DEMMERS-EvenMoreHead-0.1.6"
+    ]
+}
