@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a94a5cff294c498489388b3fd5cb4db6
+timeCreated: 1544415065
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135071
+  packageName: Mesh To File - Obj, Fbx ASCII
+  packageVersion: 1.1
+  assetPath: Assets/MeshToFile/README.txt
+  uploadId: 380985
