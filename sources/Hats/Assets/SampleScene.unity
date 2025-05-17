@@ -814,6 +814,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: AilJaw
       objectReference: {fileID: 0}
+    - target: {fileID: 5968446186223904461, guid: 12df7d53e62fc6f4591bf893e756dac9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 5968446186223904461, guid: 12df7d53e62fc6f4591bf893e756dac9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.3262
+      objectReference: {fileID: 0}
     - target: {fileID: 7286720757144291670, guid: 12df7d53e62fc6f4591bf893e756dac9, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.0805281
