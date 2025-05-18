@@ -555,6 +555,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1535962094}
     m_Modifications:
+    - target: {fileID: 630413867957854673, guid: 12df7d53e62fc6f4591bf893e756dac9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.89
+      objectReference: {fileID: 0}
     - target: {fileID: 2011230939562086157, guid: 12df7d53e62fc6f4591bf893e756dac9, type: 3}
       propertyPath: m_Name
       value: AilJaw
@@ -805,6 +809,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1535962095}
     m_Modifications:
+    - target: {fileID: 124470446485983257, guid: 68afd3ab38ecef1498b58d95356179f0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.89
+      objectReference: {fileID: 0}
     - target: {fileID: 3971093482860570698, guid: 68afd3ab38ecef1498b58d95356179f0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.67270863
